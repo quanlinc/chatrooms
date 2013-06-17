@@ -1,0 +1,1 @@
+This is a simple chat room application implemented using Nodejs, it does not contain the mime and socket.io lib which are used in this project.
