@@ -2,6 +2,9 @@
     "name": "chatrooms",
     "version" : "0.0.1",
     "description": "multi-room chat server",
+    "scripts": {
+        "start": "node server.js"
+    },
     "main": "server.js",
     "dependencies": {
         "socket.io": "~0.9.6",
